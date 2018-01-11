@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 04 16:34:30 CST 2018
+http\://nexus.wdf.sap.corp\:8081/nexus/content/repositories/build.snapshots/.error=
+http\://repo.spring.io/libs-snapshot-local/.error=
+http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1515054870447
+http\://repo.spring.io/plugins-snapshot-local/.error=
+http\://nexus.wdf.sap.corp\:8081/nexus/content/repositories/build.snapshots/.lastUpdated=1515034048425
+http\://repo.spring.io/plugins-snapshot-local/.lastUpdated=1515054870793

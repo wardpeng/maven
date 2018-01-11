@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 04 16:33:58 CST 2018
+http\://nexus.wdf.sap.corp\:8081/nexus/content/repositories/build.snapshots/.error=
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.example\:beer-common\:pom\:0.0.1-SNAPSHOT from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Permission denied\: connect
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1515054838237
+http\://repo.spring.io/plugins-snapshot-local/.error=Could not transfer artifact com.example\:beer-common\:pom\:0.0.1-SNAPSHOT from/to spring-plugin-snapshots (http\://repo.spring.io/plugins-snapshot-local)\: Permission denied\: connect
+@default-spring-plugin-snapshots-http\://repo.spring.io/plugins-snapshot-local/.lastUpdated=1515054838251
+http\://nexus.wdf.sap.corp\:8081/nexus/content/repositories/build.snapshots/.lastUpdated=1515033997652
